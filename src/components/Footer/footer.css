@@ -3,7 +3,7 @@ footer ul{
     padding: 0;
 }
 footer a {
-    color: rgb(107 114 128);
+    color: rgb(211, 215, 223);
 
 }
 .shopetimage{
@@ -13,7 +13,7 @@ footer a {
 }
 footer{
     display:flex;
-    background-color: rgb(47, 47, 76);
+    background-color: rgb(90, 90, 125);
     color: white;
     align-items: center;
     text-align: center;
@@ -35,7 +35,7 @@ footer{
     display:flex;
     justify-content: space-around;
     background-color: rgb(213, 217, 224);
-    background-color: rgb(47, 47, 76);
+    background-color: rgb(100, 100, 134);
     color: white;
 }
 
